@@ -1,4 +1,4 @@
-namespace MusicManager.Exceptions
+namespace MusicManager.Model.Exceptions
 {
     public class InvalidAlbumException : Exception
     {

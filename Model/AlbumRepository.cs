@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using MusicManager.Model;
-using MusicManager.Exceptions;
+using MusicManager.Model.Exceptions;
+using MusicManager.Data;
 
-namespace MusicManager.Data
+namespace MusicManager.Model
 {
     public class AlbumRepository
     {
